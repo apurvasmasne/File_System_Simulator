@@ -1,0 +1,11 @@
+File created: file1.txt
+File created: file2.txt
+Listing files after creation:
+File Name: file2.txt, Size: 2048 bytes
+File Name: file1.txt, Size: 1024 bytes
+Data written to file: file1.txt
+Reading file1.txt:
+Hello, world!
+File deleted: file2.txt
+Listing files after deletion:
+File Name: file1.txt, Size: 1024 bytes
