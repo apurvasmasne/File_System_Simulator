@@ -34,3 +34,13 @@ If you don't have **Google Test** installed on your machine, you can install it 
 - **Ubuntu/Debian**:
   ```bash
   sudo apt-get install libgtest-dev
+
+### Build from Source
+
+git clone https://github.com/google/googletest.git
+cd googletest
+mkdir build
+cd build
+cmake ..
+make
+sudo make install
